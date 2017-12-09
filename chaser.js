@@ -3,9 +3,9 @@ const ctx = canvas.getContext("2d");
 const progressBar = document.querySelector("progress");
 
 const enemySpriteURL =
-  "http://clipartix.com/wp-content/uploads/2016/05/Chicken-clipart-black-and-white-free-clipart-images.png";
-const playerSpriteURL =
   "http://i.pinimg.com/originals/e6/ca/0d/e6ca0db4d941220ff21e96399c99b475.png";
+const playerSpriteURL =
+  "http://clipartix.com/wp-content/uploads/2016/05/Chicken-clipart-black-and-white-free-clipart-images.png";
 const powerUpSpriteURL =
   "http://freeclipartimage.com//storage/upload/egg-clip-art/egg-clip-art-2.png";
 const backgroundURL = "http://i.imgur.com/bTgbcZR.png";
