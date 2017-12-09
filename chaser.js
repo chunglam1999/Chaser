@@ -9,7 +9,7 @@ const playerSpriteURL =
 const powerUpSpriteURL =
   "http://freeclipartimage.com//storage/upload/egg-clip-art/egg-clip-art-2.png";
 //const backgroundURL = "http://i.imgur.com/bTgbcZR.png";
-"const backgroundURL = "https://i.imgur.com/YGOfGc8.jpg";
+const backgroundURL = "https://i.imgur.com/YGOfGc8.jpg";
 
 const enemySpriteWidth = 40;
 const playerSpriteWidth = 80;
