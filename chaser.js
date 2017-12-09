@@ -8,8 +8,8 @@ const playerSpriteURL =
   "http://clipartix.com/wp-content/uploads/2016/05/Chicken-clipart-black-and-white-free-clipart-images.png";
 const powerUpSpriteURL =
   "http://freeclipartimage.com//storage/upload/egg-clip-art/egg-clip-art-2.png";
-const backgroundURL = "http://i.imgur.com/bTgbcZR.png";
-//const backgroundURL = "https://i.imgur.com/YGOfGc8.jpg";
+//const backgroundURL = "http://i.imgur.com/bTgbcZR.png";
+const backgroundURL = "https://i.imgur.com/XNSXBof.png";
 
 const enemySpriteWidth = 40;
 const playerSpriteWidth = 80;
